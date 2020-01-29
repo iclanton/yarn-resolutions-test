@@ -1,0 +1,17 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@microsoft/node-core-library": "3.19.3"
+  },
+  "resolutions": {
+    "jju": "0.4.0"
+  }
+}
